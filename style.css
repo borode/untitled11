@@ -14,7 +14,7 @@ a:focus,a:active{outline: none;}
 nav,footer,header,aside{display:block;}
 
 html,body{
-    height: 100%;
+    min-height: 100%;
     width: 100%;
     font-size: 100%;
     line-height: 1;
@@ -63,14 +63,13 @@ height: 300px;
     height: 400px;
     box-shadow: 0 0 20px #8A2BE2;
     background-color: #8A2BE2;
-    background-image: url("/img/Screenshot_8.png");
+    background-image: url("/img/Screenshot_17.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-attachment: local;
-    margin: 0 0 35px 0;
 
 }
+
 
 
 
